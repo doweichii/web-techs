@@ -1,0 +1,32 @@
+html {
+  background-image: url("img/tech-background.webp");
+  background-size: cover;
+}
+
+body {
+  background-color: white;
+  border: solid;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+}
+
+.small-logo {
+  width: 50px;
+}
+
+.center-para {
+  text-align: center;
+}
+
+#html {
+  color: orangered;
+}
+
+#css {
+  color: blue;
+}
+
+#javascript {
+  color: rgb(255, 0, 191);
+}
